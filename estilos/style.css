@@ -44,5 +44,11 @@ img.lado {
   width: fit-content;
 }
 
+.curso-js .centralizada {
+  display: block;
+  margin: 0 auto;
+  width: fit-content;
+}
+
 
 
