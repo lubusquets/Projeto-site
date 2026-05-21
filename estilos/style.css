@@ -4,14 +4,28 @@
     }
 
 body {
-    background-color: #0b8292;
+    background-color: #ae98eb;
 
 }
 main {
     background-color: white;
-    width: 500px;
+    width: 800px;
     margin: auto;
     padding: 10px;
     box-shadow: 3px 3px 5px black;
 
 }
+
+h1 {
+  font-size: 36px;
+  color: hwb(255 2% 75%);
+      
+}
+
+li {
+  font-size: 25px;
+  color: #0b8292;
+
+}
+
+
