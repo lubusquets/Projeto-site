@@ -33,3 +33,16 @@ img.lado {
     float: right;
     margin-right: 10px;
 }
+.centralizada {
+  display: block;
+  margin: 0 auto;
+}
+
+.centralizada {
+  display: block;
+  margin: 0 auto;
+  width: fit-content;
+}
+
+
+
